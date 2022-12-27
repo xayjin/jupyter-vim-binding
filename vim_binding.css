@@ -15,10 +15,10 @@
   width: calc(100% - 1em);
 }
 /* Jupyter cell is in normal mode when code mirror */
-.edit_mode .cell.selected .CodeMirror-focused.cm-fat-cursor {
+/*.edit_mode .cell.selected .CodeMirror-focused.cm-fat-cursor {
   background-color: #F5F6EB;
-}
+}*/
 /* Jupyter cell is in insert mode when code mirror */
-.edit_mode .cell.selected .CodeMirror-focused:not(.cm-fat-cursor) {
+/*.edit_mode .cell.selected .CodeMirror-focused:not(.cm-fat-cursor) {
   background-color: #F6EBF1;
-}
+}*/
